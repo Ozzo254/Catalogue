@@ -6,8 +6,14 @@ const Nav = () => {
   return (
     <nav>
         <div className="nav-container">
-            <input type="text" className="search-input" placeholder="Search product here"/>
+            <input 
+            type="text" 
+            className="search-input" 
+            id="nav-input"
+            placeholder="Search product here" 
+            />
         </div>
+
         <div className="profile-container">
             <a href="#">
                 <FiHeart className="nav-icons"/>

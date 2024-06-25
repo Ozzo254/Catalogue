@@ -19,13 +19,3 @@ li{
     list-style: none;
 }
 
-.btn{
-    padding: 10px 20px;
-    margin-right: 6px;
-    background: transparent;
-    border: none;
-    border: .6px solid #ccc;
-    border-radius: 5px;
-    color: #323232;
-    cursor: pointer;
-}
